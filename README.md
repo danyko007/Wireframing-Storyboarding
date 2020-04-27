@@ -1,5 +1,5 @@
 # Wireframing-Storyboarding
-University Assignment In Creating a Food Ordering Application. 
+University Assignment In Creating a Food Ordering Application. Refer to Screenshots Uploaded Above for the finalised Wireframing and Storyboarding outcomes.
 
 Assignment Breakdown:
 
